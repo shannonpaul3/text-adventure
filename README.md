@@ -7,8 +7,8 @@ Yeehaw!
 
 _Instructions:_
 
-To Execute, From Text Adventure Folder:
+To execute, from Text Adventure folder:
 
 python3 source.py
 
-Documentation Folder includes map and walkthrough.
+Documentation folder includes map and walkthrough.

@@ -5,10 +5,8 @@ An old western text-based adventure where the player, a traveling doctor, must f
 
 Yeehaw!
 
-_Instructions:_
-
-  -> To execute, from Text Adventure folder:
+_To Execute, from Text Adventure directory:_
 
     python3 source.py
 
-  -> Documentation folder includes map and walkthrough.
+Note: Documentation folder includes map and walkthrough.
